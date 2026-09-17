@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 const categories = [
@@ -55,12 +54,12 @@ export default function Footer() {
           {/* ブランド */}
           <div className="space-y-4">
             <Link href="/">
-              <Image
-                src="/images/logo_v1.png"
+              <img
+                src="/images/logo_v1.png?v=2"
                 alt="roomy"
                 width={480}
                 height={120}
-                className="h-9 w-auto opacity-90"
+                className="h-9 w-auto mix-blend-darken"
               />
             </Link>
             <p className="font-serif text-sm leading-relaxed text-text">

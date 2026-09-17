@@ -93,18 +93,6 @@ const MATERIAL_KEYWORDS = [
   "ひのき", "木製", "無垢",
 ];
 
-/**
- * EC 向けに価格を調整する（Phase 2 の高めの EC 価格をおおよそ 45% に）。
- * 100円単位で丸め、下限 3,000円。
- * @param {number} raw
- */
-function adjustPrice(raw) {
-  const p = Number(raw);
-  if (!Number.isFinite(p) || p <= 0) return p;
-  const scaled = Math.round((p * 0.45) / 100) * 100;
-  return Math.max(3000, scaled);
-}
-
 /** 商品名から寸法情報を抽出する。 */
 function extractSizeInfo(name, categorySlug) {
   const dims = [];
@@ -284,7 +272,7 @@ function toProduct(item, warnings, index) {
     warnings.push(`${id}: price が不正 (${item.price}) のためスキップしました`);
     return null;
   }
-  const price = adjustPrice(rawPrice);
+  const price = rawPrice;
 
   const name = cleanName(item.name);
 

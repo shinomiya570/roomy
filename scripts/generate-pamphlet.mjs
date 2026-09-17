@@ -10,7 +10,9 @@
  * 出力: output/pamphlet-roomy.html, output/pamphlet-roomy.pdf
  */
 
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, writeFileSync } from "node:fs";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import puppeteer from "puppeteer";
@@ -36,6 +38,54 @@ const INSIDE_CATEGORIES = ["chair", "bed", "kotatsu", "table", "goods"];
 
 /** 裏（内側）左パネル: ヒーロービジュアル */
 const HERO_SCENE_PRODUCT_ID = "spi-lt-4452";
+
+const execFileAsync = promisify(execFile);
+const WINDOWS_CHROME = "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe";
+
+/**
+ * @param {string} htmlPath
+ * @param {string} pdfPath
+ */
+async function createPdf(htmlPath, pdfPath) {
+  try {
+    const browser = await puppeteer.launch({
+      headless: true,
+      args: ["--font-render-hinting=medium", "--disable-dev-shm-usage"],
+    });
+    try {
+      const page = await browser.newPage();
+      await page.goto(`file:///${htmlPath.replace(/\\/g, "/")}`, {
+        waitUntil: "networkidle0",
+      });
+      await page.evaluateHandle("document.fonts.ready");
+      await page.pdf({
+        path: pdfPath,
+        format: "A4",
+        landscape: true,
+        printBackground: true,
+        preferCSSPageSize: true,
+        margin: { top: 0, right: 0, bottom: 0, left: 0 },
+      });
+      return;
+    } finally {
+      await browser.close();
+    }
+  } catch (err) {
+    if (!existsSync(WINDOWS_CHROME)) throw err;
+    const firstLine = String(err?.message || err).split("\n")[0];
+    console.warn(`Linux Chrome を起動できないため、Windows の Chrome で PDF 化します。（${firstLine}）`);
+  }
+
+  const { stdout: htmlWin } = await execFileAsync("wslpath", ["-w", htmlPath]);
+  const { stdout: pdfWin } = await execFileAsync("wslpath", ["-w", pdfPath]);
+  await execFileAsync(WINDOWS_CHROME, [
+    "--headless=new",
+    "--disable-gpu",
+    "--no-pdf-header-footer",
+    `--print-to-pdf=${pdfWin.trim()}`,
+    htmlWin.trim(),
+  ]);
+}
 
 async function main() {
   const siteUrl =
@@ -79,32 +129,10 @@ async function main() {
   console.log(`HTML: ${HTML_PATH}`);
 
   console.log("PDF を生成中...");
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ["--font-render-hinting=medium", "--disable-dev-shm-usage"],
-  });
+  await createPdf(HTML_PATH, PDF_PATH);
 
-  try {
-    const page = await browser.newPage();
-    await page.goto(`file:///${HTML_PATH.replace(/\\/g, "/")}`, {
-      waitUntil: "networkidle0",
-    });
-    await page.evaluateHandle("document.fonts.ready");
-
-    await page.pdf({
-      path: PDF_PATH,
-      format: "A4",
-      landscape: true,
-      printBackground: true,
-      preferCSSPageSize: true,
-      margin: { top: 0, right: 0, bottom: 0, left: 0 },
-    });
-
-    console.log(`PDF:  ${PDF_PATH}`);
-    console.log("完了。印刷時は両面印刷・短辺とじを推奨します。");
-  } finally {
-    await browser.close();
-  }
+  console.log(`PDF:  ${PDF_PATH}`);
+  console.log("完了。印刷時は両面印刷・短辺とじを推奨します。");
 }
 
 main().catch((err) => {
