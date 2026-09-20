@@ -1,0 +1,24 @@
+{
+  "baseUrl": "https://www.receno.com",
+  "categoryUrls": ["https://www.receno.com/mirror/"],
+  "maxProducts": 10,
+  "maxImagesPerProduct": 8,
+  "requestIntervalSec": 1.0,
+  "concurrency": 2,
+  "defaultCategorySlug": "mirror",
+  "manifestPath": "data/receno/manifests/mirror.json",
+  "imagesDir": "public/images/products",
+  "imagesWebPath": "/images/products",
+  "productUrls": [
+    "https://www.receno.com/mirror2/hamr.php",
+    "https://www.receno.com/mirror/hokos-mr.php",
+    "https://www.receno.com/mirror/breeze.php",
+    "https://www.receno.com/mirror/kurve-rec.php",
+    "https://www.receno.com/mirror/kurve-sq.php",
+    "https://www.receno.com/mirror/juglas-mr-rou.php",
+    "https://www.receno.com/mirror/juglas-mr-lf.php",
+    "https://www.receno.com/mirror/brasswd-o.php",
+    "https://www.receno.com/mirror/kurve-o.php",
+    "https://www.receno.com/mirror/kurve-rou.php"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-09-20T21:30:41.317173+09:00",
+  "source": {
+    "site": "receno.com",
+    "baseUrl": "https://www.receno.com",
+    "categoryUrls": [
+      "https://www.receno.com/objects/"
+    ]
+  },
+  "products": [
+    {
+      "id": "haani-oj",
+      "name": "動物オブジェ H/A",
+      "price": 2980,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object/haani-oj.php",
+      "itemCode": "receno:haani-oj",
+      "rank": 1,
+      "images": [
+        "/images/products/haani-oj/01.jpg",
+        "/images/products/haani-oj/02.jpg",
+        "/images/products/haani-oj/03.jpg",
+        "/images/products/haani-oj/04.jpg",
+        "/images/products/haani-oj/05.jpg",
+        "/images/products/haani-oj/06.jpg",
+        "/images/products/haani-oj/07.jpg",
+        "/images/products/haani-oj/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object/haani-oj/img/1-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/2-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/3-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/4-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/5-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/6-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/7-b.jpg",
+        "https://www.receno.com/object/haani-oj/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "holey-oj",
+      "name": "オブジェ Holey",
+      "price": 4400,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/holey-oj.php",
+      "itemCode": "receno:holey-oj",
+      "rank": 2,
+      "images": [
+        "/images/products/holey-oj/01.jpg",
+        "/images/products/holey-oj/02.jpg",
+        "/images/products/holey-oj/03.jpg",
+        "/images/products/holey-oj/04.jpg",
+        "/images/products/holey-oj/05.jpg",
+        "/images/products/holey-oj/06.jpg",
+        "/images/products/holey-oj/07.jpg",
+        "/images/products/holey-oj/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/holey-oj/img/1-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/2-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/3-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/4-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/5-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/6-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/7-b.jpg",
+        "https://www.receno.com/object2/holey-oj/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "swallow-wd",
+      "name": "ウォールデコ Swallow",
+      "price": 1320,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/swallow-wd.php",
+      "itemCode": "receno:swallow-wd",
+      "rank": 3,
+      "images": [
+        "/images/products/swallow-wd/01.jpg",
+        "/images/products/swallow-wd/02.jpg",
+        "/images/products/swallow-wd/03.jpg",
+        "/images/products/swallow-wd/04.jpg",
+        "/images/products/swallow-wd/05.jpg",
+        "/images/products/swallow-wd/06.jpg",
+        "/images/products/swallow-wd/07.jpg",
+        "/images/products/swallow-wd/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/swallow-wd/img/1-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/2-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/3-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/4-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/5-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/6-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/7-b.jpg",
+        "https://www.receno.com/object2/swallow-wd/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "tempo-mb",
+      "name": "モビール Tempo",
+      "price": 12650,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/ornament2/tempo-mb.php",
+      "itemCode": "receno:tempo-mb",
+      "rank": 4,
+      "images": [
+        "/images/products/tempo-mb/01.jpg",
+        "/images/products/tempo-mb/02.jpg",
+        "/images/products/tempo-mb/03.jpg",
+        "/images/products/tempo-mb/04.jpg",
+        "/images/products/tempo-mb/05.jpg",
+        "/images/products/tempo-mb/06.jpg",
+        "/images/products/tempo-mb/07.jpg",
+        "/images/products/tempo-mb/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/ornament2/tempo-mb/img/1-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/2-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/3-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/4-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/5-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/6-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/7-b.jpg",
+        "https://www.receno.com/ornament2/tempo-mb/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "kito-mb",
+      "name": "木製オーナメント Kito",
+      "price": 4950,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/ornament2/kito-mb.php",
+      "itemCode": "receno:kito-mb",
+      "rank": 5,
+      "images": [
+        "/images/products/kito-mb/01.jpg",
+        "/images/products/kito-mb/02.jpg",
+        "/images/products/kito-mb/03.jpg",
+        "/images/products/kito-mb/04.jpg",
+        "/images/products/kito-mb/05.jpg",
+        "/images/products/kito-mb/06.jpg",
+        "/images/products/kito-mb/07.jpg",
+        "/images/products/kito-mb/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/ornament2/kito-mb/img/1-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/2-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/3-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/4-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/5-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/6-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/7-b.jpg",
+        "https://www.receno.com/ornament2/kito-mb/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "brass-tr",
+      "name": "fog linen work ブラストレー",
+      "price": 2970,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/brass-tr.php",
+      "itemCode": "receno:brass-tr",
+      "rank": 6,
+      "images": [
+        "/images/products/brass-tr/01.jpg",
+        "/images/products/brass-tr/02.jpg",
+        "/images/products/brass-tr/03.jpg",
+        "/images/products/brass-tr/04.jpg",
+        "/images/products/brass-tr/05.jpg",
+        "/images/products/brass-tr/06.jpg",
+        "/images/products/brass-tr/07.jpg",
+        "/images/products/brass-tr/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/brass-tr/img/1-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/2-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/3-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/4-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/5-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/6-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/7-b.jpg",
+        "https://www.receno.com/object2/brass-tr/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "tiga-oj",
+      "name": "オブジェ Tiga",
+      "price": 3800,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object/tiga-oj.php",
+      "itemCode": "receno:tiga-oj",
+      "rank": 7,
+      "images": [
+        "/images/products/tiga-oj/01.jpg",
+        "/images/products/tiga-oj/02.jpg",
+        "/images/products/tiga-oj/03.jpg",
+        "/images/products/tiga-oj/04.jpg",
+        "/images/products/tiga-oj/05.jpg",
+        "/images/products/tiga-oj/06.jpg",
+        "/images/products/tiga-oj/07.jpg",
+        "/images/products/tiga-oj/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object/tiga-oj/img/1-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/2-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/3-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/4-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/5-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/6-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/7-b.jpg",
+        "https://www.receno.com/object/tiga-oj/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "stone-tr",
+      "name": "ideaco ストーン調トレー",
+      "price": 2750,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/stone-tr.php",
+      "itemCode": "receno:stone-tr",
+      "rank": 8,
+      "images": [
+        "/images/products/stone-tr/01.jpg",
+        "/images/products/stone-tr/02.jpg",
+        "/images/products/stone-tr/03.jpg",
+        "/images/products/stone-tr/04.jpg",
+        "/images/products/stone-tr/05.jpg",
+        "/images/products/stone-tr/06.jpg",
+        "/images/products/stone-tr/07.jpg",
+        "/images/products/stone-tr/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/stone-tr/img/1-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/2-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/3-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/4-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/5-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/6-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/7-b.jpg",
+        "https://www.receno.com/object2/stone-tr/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "birdin-wd",
+      "name": "ウォールデコ Birdin",
+      "price": 2300,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/birdin-wd.php",
+      "itemCode": "receno:birdin-wd",
+      "rank": 9,
+      "images": [
+        "/images/products/birdin-wd/01.jpg",
+        "/images/products/birdin-wd/02.jpg",
+        "/images/products/birdin-wd/03.jpg",
+        "/images/products/birdin-wd/04.jpg",
+        "/images/products/birdin-wd/05.jpg",
+        "/images/products/birdin-wd/06.jpg",
+        "/images/products/birdin-wd/07.jpg",
+        "/images/products/birdin-wd/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/birdin-wd/img/1-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/2-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/3-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/4-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/5-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/6-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/7-b.jpg",
+        "https://www.receno.com/object2/birdin-wd/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "teak-rh",
+      "name": "リングホルダー TEAK",
+      "price": 2200,
+      "categorySlug": "objects",
+      "itemUrl": "https://www.receno.com/object2/teak-rh.php",
+      "itemCode": "receno:teak-rh",
+      "rank": 10,
+      "images": [
+        "/images/products/teak-rh/01.jpg",
+        "/images/products/teak-rh/02.jpg",
+        "/images/products/teak-rh/03.jpg",
+        "/images/products/teak-rh/04.jpg",
+        "/images/products/teak-rh/05.jpg",
+        "/images/products/teak-rh/06.jpg",
+        "/images/products/teak-rh/07.jpg",
+        "/images/products/teak-rh/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/object2/teak-rh/img/1-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/2-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/3-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/4-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/5-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/6-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/7-b.jpg",
+        "https://www.receno.com/object2/teak-rh/img/8-b.jpg"
+      ]
+    }
+  ]
+}

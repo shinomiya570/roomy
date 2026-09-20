@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-09-20T20:13:54.518505+09:00",
+  "source": {
+    "site": "receno.com",
+    "baseUrl": "https://www.receno.com",
+    "categoryUrls": [
+      "https://www.receno.com/mirror/"
+    ]
+  },
+  "products": [
+    {
+      "id": "hamr",
+      "name": "ミラー H/A",
+      "price": 9980,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror2/hamr.php",
+      "itemCode": "receno:hamr",
+      "rank": 1,
+      "images": [
+        "/images/products/hamr/01.jpg",
+        "/images/products/hamr/02.jpg",
+        "/images/products/hamr/03.jpg",
+        "/images/products/hamr/04.jpg",
+        "/images/products/hamr/05.jpg",
+        "/images/products/hamr/06.jpg",
+        "/images/products/hamr/07.jpg",
+        "/images/products/hamr/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror2/hamr/img/1-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/2-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/3-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/4-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/5-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/6-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/7-b.jpg",
+        "https://www.receno.com/mirror2/hamr/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "hokos-mr",
+      "name": "スリムミラー HOKOS",
+      "price": 28800,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/hokos-mr.php",
+      "itemCode": "receno:hokos-mr",
+      "rank": 2,
+      "images": [
+        "/images/products/hokos-mr/01.jpg",
+        "/images/products/hokos-mr/02.jpg",
+        "/images/products/hokos-mr/03.jpg",
+        "/images/products/hokos-mr/04.jpg",
+        "/images/products/hokos-mr/05.jpg",
+        "/images/products/hokos-mr/06.jpg",
+        "/images/products/hokos-mr/07.jpg",
+        "/images/products/hokos-mr/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/hokos-mr/img/1-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/2-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/3-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/4-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/5-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/6-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/7-b.jpg",
+        "https://www.receno.com/mirror/hokos-mr/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "breeze",
+      "name": "BREEZE ウォールミラー",
+      "price": 46800,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/breeze.php",
+      "itemCode": "receno:breeze",
+      "rank": 3,
+      "images": [
+        "/images/products/breeze/01.jpg",
+        "/images/products/breeze/02.jpg",
+        "/images/products/breeze/03.jpg",
+        "/images/products/breeze/04.jpg",
+        "/images/products/breeze/05.jpg",
+        "/images/products/breeze/06.jpg",
+        "/images/products/breeze/07.jpg",
+        "/images/products/breeze/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/breeze/img/1-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/2-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/3-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/4-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/5-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/6-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/7-b.jpg",
+        "https://www.receno.com/mirror/breeze/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "kurve-rec",
+      "name": "ミラー KURVE RECTANGLE",
+      "price": 27500,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/kurve-rec.php",
+      "itemCode": "receno:kurve-rec",
+      "rank": 4,
+      "images": [
+        "/images/products/kurve-rec/01.jpg",
+        "/images/products/kurve-rec/02.jpg",
+        "/images/products/kurve-rec/03.jpg",
+        "/images/products/kurve-rec/04.jpg",
+        "/images/products/kurve-rec/05.jpg",
+        "/images/products/kurve-rec/06.jpg",
+        "/images/products/kurve-rec/07.jpg",
+        "/images/products/kurve-rec/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/kurve-rec/img/1-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/2-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/3-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/4-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/5-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/6-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/7-b.jpg",
+        "https://www.receno.com/mirror/kurve-rec/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "kurve-sq",
+      "name": "ミラー KURVE SQUARE",
+      "price": 19800,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/kurve-sq.php",
+      "itemCode": "receno:kurve-sq",
+      "rank": 5,
+      "images": [
+        "/images/products/kurve-sq/01.jpg",
+        "/images/products/kurve-sq/02.jpg",
+        "/images/products/kurve-sq/03.jpg",
+        "/images/products/kurve-sq/04.jpg",
+        "/images/products/kurve-sq/05.jpg",
+        "/images/products/kurve-sq/06.jpg",
+        "/images/products/kurve-sq/07.jpg",
+        "/images/products/kurve-sq/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/kurve-sq/img/1-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/2-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/3-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/4-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/5-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/6-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/7-b.jpg",
+        "https://www.receno.com/mirror/kurve-sq/img/main-img.jpg"
+      ]
+    },
+    {
+      "id": "juglas-mr-rou",
+      "name": "ミラー JUGLAS ROUND",
+      "price": 4180,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/juglas-mr-rou.php",
+      "itemCode": "receno:juglas-mr-rou",
+      "rank": 6,
+      "images": [
+        "/images/products/juglas-mr-rou/01.jpg",
+        "/images/products/juglas-mr-rou/02.jpg",
+        "/images/products/juglas-mr-rou/03.jpg",
+        "/images/products/juglas-mr-rou/04.jpg",
+        "/images/products/juglas-mr-rou/05.jpg",
+        "/images/products/juglas-mr-rou/06.jpg",
+        "/images/products/juglas-mr-rou/07.jpg",
+        "/images/products/juglas-mr-rou/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/juglas-mr-rou/img/1-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/2-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/3-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/4-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/5-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/6-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/7-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-rou/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "juglas-mr-lf",
+      "name": "ミラー JUGLAS LEAF",
+      "price": 5500,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/juglas-mr-lf.php",
+      "itemCode": "receno:juglas-mr-lf",
+      "rank": 7,
+      "images": [
+        "/images/products/juglas-mr-lf/01.jpg",
+        "/images/products/juglas-mr-lf/02.jpg",
+        "/images/products/juglas-mr-lf/03.jpg",
+        "/images/products/juglas-mr-lf/04.jpg",
+        "/images/products/juglas-mr-lf/05.jpg",
+        "/images/products/juglas-mr-lf/06.jpg",
+        "/images/products/juglas-mr-lf/07.jpg",
+        "/images/products/juglas-mr-lf/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/juglas-mr-lf/img/1-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/2-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/3-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/4-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/5-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/6-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/7-b.jpg",
+        "https://www.receno.com/mirror/juglas-mr-lf/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "brasswd-o",
+      "name": "スタンドミラー オーバル BRASS＆WOOD",
+      "price": 9460,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/brasswd-o.php",
+      "itemCode": "receno:brasswd-o",
+      "rank": 8,
+      "images": [
+        "/images/products/brasswd-o/01.jpg",
+        "/images/products/brasswd-o/02.jpg",
+        "/images/products/brasswd-o/03.jpg",
+        "/images/products/brasswd-o/04.jpg",
+        "/images/products/brasswd-o/05.jpg",
+        "/images/products/brasswd-o/06.jpg",
+        "/images/products/brasswd-o/07.jpg",
+        "/images/products/brasswd-o/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/brasswd-o/img/1-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/2-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/3-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/4-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/5-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/6-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/7-b.jpg",
+        "https://www.receno.com/mirror/brasswd-o/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "kurve-o",
+      "name": "ミラー KURVE OVAL",
+      "price": 15400,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/kurve-o.php",
+      "itemCode": "receno:kurve-o",
+      "rank": 9,
+      "images": [
+        "/images/products/kurve-o/01.jpg",
+        "/images/products/kurve-o/02.jpg",
+        "/images/products/kurve-o/03.jpg",
+        "/images/products/kurve-o/04.jpg",
+        "/images/products/kurve-o/05.jpg",
+        "/images/products/kurve-o/06.jpg",
+        "/images/products/kurve-o/07.jpg",
+        "/images/products/kurve-o/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/kurve-o/img/1-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/2-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/3-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/4-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/5-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/6-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/7-b.jpg",
+        "https://www.receno.com/mirror/kurve-o/img/main-img.jpg"
+      ]
+    },
+    {
+      "id": "kurve-rou",
+      "name": "ミラー KURVE ROUND",
+      "price": 14300,
+      "categorySlug": "mirror",
+      "itemUrl": "https://www.receno.com/mirror/kurve-rou.php",
+      "itemCode": "receno:kurve-rou",
+      "rank": 10,
+      "images": [
+        "/images/products/kurve-rou/01.jpg",
+        "/images/products/kurve-rou/02.jpg",
+        "/images/products/kurve-rou/03.jpg",
+        "/images/products/kurve-rou/04.jpg",
+        "/images/products/kurve-rou/05.jpg",
+        "/images/products/kurve-rou/06.jpg",
+        "/images/products/kurve-rou/07.jpg",
+        "/images/products/kurve-rou/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/mirror/kurve-rou/img/1-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/2-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/3-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/4-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/5-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/6-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/7-b.jpg",
+        "https://www.receno.com/mirror/kurve-rou/img/main-img.jpg"
+      ]
+    }
+  ]
+}

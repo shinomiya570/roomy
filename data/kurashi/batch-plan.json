@@ -78,12 +78,30 @@
     },
     {
       "id": "mirror",
-      "status": "blocked",
+      "status": "done",
       "categorySlug": "mirror",
       "label": "ミラー",
-      "note": "暮らしのデザインにミラーカテゴリなし。楽天 scripts/rakuten_fetch.py または別ソースで対応",
-      "configPath": null,
-      "kurashiCategoryUrl": null
+      "note": "Re:CENO から 10 商品 × 8 枚を取得。scripts/receno_fetch.py / data/receno/config.json",
+      "configPath": "data/receno/config.json",
+      "sourceUrl": "https://www.receno.com/mirror/"
+    },
+    {
+      "id": "storagegoods",
+      "status": "done",
+      "categorySlug": "storagegoods",
+      "label": "収納雑貨",
+      "note": "Re:CENO から 10 商品 \u00d7 8 枚を取得。scripts/receno_fetch.py / data/receno/configs/storagegoods.json",
+      "configPath": "data/receno/configs/storagegoods.json",
+      "sourceUrl": "https://www.receno.com/storagegoodss/"
+    },
+    {
+      "id": "objects",
+      "status": "done",
+      "categorySlug": "objects",
+      "label": "置物・オブジェ",
+      "note": "Re:CENO から 10 商品 \u00d7 8 枚を取得。scripts/receno_fetch.py / data/receno/configs/objects.json",
+      "configPath": "data/receno/configs/objects.json",
+      "sourceUrl": "https://www.receno.com/objects/"
     }
   ]
 }

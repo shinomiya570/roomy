@@ -1,0 +1,24 @@
+{
+  "baseUrl": "https://www.receno.com",
+  "categoryUrls": ["https://www.receno.com/storagegoodss/"],
+  "maxProducts": 10,
+  "maxImagesPerProduct": 8,
+  "requestIntervalSec": 1.0,
+  "concurrency": 2,
+  "defaultCategorySlug": "storagegoods",
+  "manifestPath": "data/receno/manifests/storagegoods.json",
+  "imagesDir": "public/images/products",
+  "imagesWebPath": "/images/products",
+  "productUrls": [
+    "https://www.receno.com/storage2/weaves-bk.php",
+    "https://www.receno.com/storage2/shakerob1.php",
+    "https://www.receno.com/dustbox2/mohe-sbin-db.php",
+    "https://www.receno.com/storage2/timb.php",
+    "https://www.receno.com/storage2/petal-bk.php",
+    "https://www.receno.com/storage2/shakerob2.php",
+    "https://www.receno.com/storage2/af-sbkhg.php",
+    "https://www.receno.com/umbrellastand/teoke-us.php",
+    "https://www.receno.com/umbrellastand2/antenna-us.php",
+    "https://www.receno.com/storage2/lautta-bk.php"
+  ]
+}

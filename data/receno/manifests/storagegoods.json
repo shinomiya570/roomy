@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-09-20T21:22:30.118319+09:00",
+  "source": {
+    "site": "receno.com",
+    "baseUrl": "https://www.receno.com",
+    "categoryUrls": [
+      "https://www.receno.com/storagegoodss/"
+    ]
+  },
+  "products": [
+    {
+      "id": "weaves-bk",
+      "name": "重なるラタンバスケット Weaves",
+      "price": 3980,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/weaves-bk.php",
+      "itemCode": "receno:weaves-bk",
+      "rank": 1,
+      "images": [
+        "/images/products/weaves-bk/01.jpg",
+        "/images/products/weaves-bk/02.jpg",
+        "/images/products/weaves-bk/03.jpg",
+        "/images/products/weaves-bk/04.jpg",
+        "/images/products/weaves-bk/05.jpg",
+        "/images/products/weaves-bk/06.jpg",
+        "/images/products/weaves-bk/07.jpg",
+        "/images/products/weaves-bk/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/weaves-bk/img/1-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/2-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/3-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/4-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/5-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/6-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/7-b.jpg",
+        "https://www.receno.com/storage2/weaves-bk/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "shakerob1",
+      "name": "シェーカーボックス",
+      "price": 5500,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/shakerob1.php",
+      "itemCode": "receno:shakerob1",
+      "rank": 2,
+      "images": [
+        "/images/products/shakerob1/01.jpg",
+        "/images/products/shakerob1/02.jpg",
+        "/images/products/shakerob1/03.jpg",
+        "/images/products/shakerob1/04.jpg",
+        "/images/products/shakerob1/05.jpg",
+        "/images/products/shakerob1/06.jpg",
+        "/images/products/shakerob1/07.jpg",
+        "/images/products/shakerob1/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/shakerob1/img/1-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/2-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/3-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/4-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/5-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/6-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/7-b.jpg",
+        "https://www.receno.com/storage2/shakerob1/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "mohe-sbin-db",
+      "name": "ダストボックス MOHEIM SWING BIN",
+      "price": 8030,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/dustbox2/mohe-sbin-db.php",
+      "itemCode": "receno:mohe-sbin-db",
+      "rank": 3,
+      "images": [
+        "/images/products/mohe-sbin-db/01.jpg",
+        "/images/products/mohe-sbin-db/02.jpg",
+        "/images/products/mohe-sbin-db/03.jpg",
+        "/images/products/mohe-sbin-db/04.jpg",
+        "/images/products/mohe-sbin-db/05.jpg",
+        "/images/products/mohe-sbin-db/06.jpg",
+        "/images/products/mohe-sbin-db/07.jpg",
+        "/images/products/mohe-sbin-db/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/1-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/2-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/3-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/4-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/5-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/6-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/7-b.jpg",
+        "https://www.receno.com/dustbox2/mohe-sbin-db/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "timb",
+      "name": "洗えるバスケット Timb.",
+      "price": 2640,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/timb.php",
+      "itemCode": "receno:timb",
+      "rank": 4,
+      "images": [
+        "/images/products/timb/01.jpg",
+        "/images/products/timb/02.jpg",
+        "/images/products/timb/03.jpg",
+        "/images/products/timb/04.jpg",
+        "/images/products/timb/05.jpg",
+        "/images/products/timb/06.jpg",
+        "/images/products/timb/07.jpg",
+        "/images/products/timb/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/timb/img/1-b.jpg",
+        "https://www.receno.com/storage2/timb/img/2-b.jpg",
+        "https://www.receno.com/storage2/timb/img/3-b.jpg",
+        "https://www.receno.com/storage2/timb/img/4-b.jpg",
+        "https://www.receno.com/storage2/timb/img/5-b.jpg",
+        "https://www.receno.com/storage2/timb/img/6-b.jpg",
+        "https://www.receno.com/storage2/timb/img/7-b.jpg",
+        "https://www.receno.com/storage2/timb/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "petal-bk",
+      "name": "洗えるバスケット Towc PETAL",
+      "price": 2090,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/petal-bk.php",
+      "itemCode": "receno:petal-bk",
+      "rank": 5,
+      "images": [
+        "/images/products/petal-bk/01.jpg",
+        "/images/products/petal-bk/02.jpg",
+        "/images/products/petal-bk/03.jpg",
+        "/images/products/petal-bk/04.jpg",
+        "/images/products/petal-bk/05.jpg",
+        "/images/products/petal-bk/06.jpg",
+        "/images/products/petal-bk/07.jpg",
+        "/images/products/petal-bk/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/petal-bk/img/1-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/2-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/3-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/4-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/5-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/6-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/7-b.jpg",
+        "https://www.receno.com/storage2/petal-bk/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "shakerob2",
+      "name": "シェーカーボックス",
+      "price": 6050,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/shakerob2.php",
+      "itemCode": "receno:shakerob2",
+      "rank": 6,
+      "images": [
+        "/images/products/shakerob2/01.jpg",
+        "/images/products/shakerob2/02.jpg",
+        "/images/products/shakerob2/03.jpg",
+        "/images/products/shakerob2/04.jpg",
+        "/images/products/shakerob2/05.jpg",
+        "/images/products/shakerob2/06.jpg",
+        "/images/products/shakerob2/07.jpg",
+        "/images/products/shakerob2/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/shakerob2/img/1-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/2-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/3-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/4-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/5-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/6-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/7-b.jpg",
+        "https://www.receno.com/storage2/shakerob2/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "af-sbkhg",
+      "name": "Ancien fil ハンギングバスケット",
+      "price": 2750,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/af-sbkhg.php",
+      "itemCode": "receno:af-sbkhg",
+      "rank": 7,
+      "images": [
+        "/images/products/af-sbkhg/01.jpg",
+        "/images/products/af-sbkhg/02.jpg",
+        "/images/products/af-sbkhg/03.jpg",
+        "/images/products/af-sbkhg/04.jpg",
+        "/images/products/af-sbkhg/05.jpg",
+        "/images/products/af-sbkhg/06.jpg",
+        "/images/products/af-sbkhg/07.jpg",
+        "/images/products/af-sbkhg/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/af-sbkhg/img/1-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/2-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/3-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/4-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/5-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/6-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/7-b.jpg",
+        "https://www.receno.com/storage2/af-sbkhg/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "teoke-us",
+      "name": "傘立て HIJICA TEOKE STAND",
+      "price": 24200,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/umbrellastand/teoke-us.php",
+      "itemCode": "receno:teoke-us",
+      "rank": 8,
+      "images": [
+        "/images/products/teoke-us/01.jpg",
+        "/images/products/teoke-us/02.jpg",
+        "/images/products/teoke-us/03.jpg",
+        "/images/products/teoke-us/04.jpg",
+        "/images/products/teoke-us/05.jpg",
+        "/images/products/teoke-us/06.jpg",
+        "/images/products/teoke-us/07.jpg",
+        "/images/products/teoke-us/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/umbrellastand/teoke-us/img/1-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/2-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/3-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/4-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/5-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/6-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/7-b.jpg",
+        "https://www.receno.com/umbrellastand/teoke-us/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "antenna-us",
+      "name": "傘立て antenna",
+      "price": 8800,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/umbrellastand2/antenna-us.php",
+      "itemCode": "receno:antenna-us",
+      "rank": 9,
+      "images": [
+        "/images/products/antenna-us/01.jpg",
+        "/images/products/antenna-us/02.jpg",
+        "/images/products/antenna-us/03.jpg",
+        "/images/products/antenna-us/04.jpg",
+        "/images/products/antenna-us/05.jpg",
+        "/images/products/antenna-us/06.jpg",
+        "/images/products/antenna-us/07.jpg",
+        "/images/products/antenna-us/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/umbrellastand2/antenna-us/img/1-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/2-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/3-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/4-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/5-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/6-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/7-b.jpg",
+        "https://www.receno.com/umbrellastand2/antenna-us/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "lautta-bk",
+      "name": "洗えるバスケット Towc LAUTTA",
+      "price": 3520,
+      "categorySlug": "storagegoods",
+      "itemUrl": "https://www.receno.com/storage2/lautta-bk.php",
+      "itemCode": "receno:lautta-bk",
+      "rank": 10,
+      "images": [
+        "/images/products/lautta-bk/01.jpg",
+        "/images/products/lautta-bk/02.jpg",
+        "/images/products/lautta-bk/03.jpg",
+        "/images/products/lautta-bk/04.jpg",
+        "/images/products/lautta-bk/05.jpg",
+        "/images/products/lautta-bk/06.jpg",
+        "/images/products/lautta-bk/07.jpg",
+        "/images/products/lautta-bk/08.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/storage2/lautta-bk/img/1-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/2-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/3-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/4-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/5-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/6-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/7-b.jpg",
+        "https://www.receno.com/storage2/lautta-bk/img/8-b.jpg"
+      ]
+    }
+  ]
+}

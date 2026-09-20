@@ -50,6 +50,9 @@ const VALID_CATEGORY_SLUGS = new Set([
   "kitchen",
   "clothing",
   "kotatsu",
+  "mirror",
+  "storagegoods",
+  "objects",
 ]);
 const DEFAULT_CATEGORY_SLUG = "goods";
 
@@ -67,6 +70,9 @@ const CATEGORY_LABEL = {
   kitchen: "キッチン収納",
   clothing: "衣類収納",
   kotatsu: "こたつ",
+  mirror: "ミラー",
+  storagegoods: "収納雑貨",
+  objects: "置物・オブジェ",
 };
 
 /** カテゴリ別のデフォルト素材（商品名から抽出できなかった場合のフォールバック） */
@@ -83,6 +89,9 @@ const CATEGORY_MATERIAL = {
   kitchen: "木製／ステンレス天板",
   clothing: "木製（天然木・木目調）",
   kotatsu: "木製／こたつ布団付き",
+  mirror: "ガラス／木製フレーム",
+  storagegoods: "ラタン／木製／スチール",
+  objects: "木製／陶器／真鍮",
 };
 
 /** 商品名に現れる素材キーワード（出現順に拾う） */
@@ -232,6 +241,9 @@ const SCENE_BY_CATEGORY = {
   kitchen: ["dining"],
   clothing: ["bedroom"],
   kotatsu: ["living"],
+  mirror: ["living", "bedroom"],
+  storagegoods: ["living", "bedroom"],
+  objects: ["living", "bedroom"],
 };
 
 /**
@@ -433,6 +445,9 @@ export function getDefaultRankingCategory(): string {
     "lighting",
     "rug",
     "goods",
+    "mirror",
+    "storagegoods",
+    "objects",
   ];
   for (const slug of slugs) {
     if (products.some((product) => product.categorySlug === slug)) {

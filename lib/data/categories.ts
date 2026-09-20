@@ -85,6 +85,27 @@ export const categories: Category[] = [
     description: "足元から心地よさを。ラグとファブリックのコレクション。",
   },
   {
+    slug: "mirror",
+    name: "ミラー",
+    href: "/category/mirror",
+    image: "/images/categories/mirror.jpg",
+    description: "光を取り込み、空間を広く見せる。玄関から寝室まで使えるミラー。",
+  },
+  {
+    slug: "storagegoods",
+    name: "収納雑貨",
+    href: "/category/storagegoods",
+    image: "/images/categories/storagegoods.jpg",
+    description: "バスケットやボックスで、日用品を美しく整える収納雑貨。",
+  },
+  {
+    slug: "objects",
+    name: "置物・オブジェ",
+    href: "/category/objects",
+    image: "/images/categories/objects.jpg",
+    description: "棚や壁に小さな景色をつくる、置物・オブジェのセレクト。",
+  },
+  {
     slug: "goods",
     name: "インテリア雑貨",
     href: "/category/goods",

@@ -17,6 +17,9 @@ const categories = [
   { href: "/category/kotatsu", label: "こたつ" },
   { href: "/category/lighting", label: "照明" },
   { href: "/category/rug", label: "ラグ・ファブリック" },
+  { href: "/category/mirror", label: "ミラー" },
+  { href: "/category/storagegoods", label: "収納雑貨" },
+  { href: "/category/objects", label: "置物・オブジェ" },
   { href: "/category/goods", label: "インテリア雑貨" },
 ];
 

@@ -1,0 +1,24 @@
+{
+  "baseUrl": "https://www.receno.com",
+  "categoryUrls": ["https://www.receno.com/objects/"],
+  "maxProducts": 10,
+  "maxImagesPerProduct": 8,
+  "requestIntervalSec": 1.0,
+  "concurrency": 2,
+  "defaultCategorySlug": "objects",
+  "manifestPath": "data/receno/manifests/objects.json",
+  "imagesDir": "public/images/products",
+  "imagesWebPath": "/images/products",
+  "productUrls": [
+    "https://www.receno.com/object/haani-oj.php",
+    "https://www.receno.com/object2/holey-oj.php",
+    "https://www.receno.com/object2/swallow-wd.php",
+    "https://www.receno.com/ornament2/tempo-mb.php",
+    "https://www.receno.com/ornament2/kito-mb.php",
+    "https://www.receno.com/object2/brass-tr.php",
+    "https://www.receno.com/object/tiga-oj.php",
+    "https://www.receno.com/object2/stone-tr.php",
+    "https://www.receno.com/object2/birdin-wd.php",
+    "https://www.receno.com/object2/teak-rh.php"
+  ]
+}
