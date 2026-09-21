@@ -40,6 +40,44 @@ export type Product = {
 
 export const products: Product[] = [
   {
+    "id": "groove",
+    "name": "天井照明 Groove-ceiling lamp",
+    "price": 21780,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/groove/01.jpg",
+    "images": [
+      "/images/products/groove/01.jpg",
+      "/images/products/groove/02.jpg",
+      "/images/products/groove/03.jpg",
+      "/images/products/groove/04.jpg",
+      "/images/products/groove/05.jpg",
+      "/images/products/groove/06.jpg",
+      "/images/products/groove/07.jpg",
+      "/images/products/groove/08.jpg",
+      "/images/products/groove/09.jpg"
+    ],
+    "description": "天井照明 Groove-ceiling lamp。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 1,
+    "isNew": true
+  },
+  {
     "id": "grt-2wolte2-2-d",
     "name": "ダブル ウォルテ ベッド 木製 寝室",
     "price": 89800,
@@ -179,7 +217,7 @@ export const products: Product[] = [
     ],
     "reviews": [],
     "rank": 1,
-    "isNew": true
+    "isRecommended": true
   },
   {
     "id": "kd-moduliast",
@@ -320,8 +358,7 @@ export const products: Product[] = [
       }
     ],
     "reviews": [],
-    "rank": 1,
-    "isRecommended": true
+    "rank": 1
   },
   {
     "id": "kw-0219",
@@ -585,6 +622,43 @@ export const products: Product[] = [
     "description": "幅16cm 木製 ジュエリーボックス 5段 ジュエリーケース。インテリア雑貨として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
     "material": "木製",
     "sizeInfo": "幅16cm",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 2
+  },
+  {
+    "id": "brassr-fl",
+    "name": "フロアライト Brass＆LinenMix",
+    "price": 79800,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/brassr-fl/01.jpg",
+    "images": [
+      "/images/products/brassr-fl/01.jpg",
+      "/images/products/brassr-fl/02.jpg",
+      "/images/products/brassr-fl/03.jpg",
+      "/images/products/brassr-fl/04.jpg",
+      "/images/products/brassr-fl/05.jpg",
+      "/images/products/brassr-fl/06.jpg",
+      "/images/products/brassr-fl/07.jpg",
+      "/images/products/brassr-fl/08.jpg",
+      "/images/products/brassr-fl/09.jpg"
+    ],
+    "description": "フロアライト Brass＆LinenMix。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
     "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
     "colors": [],
     "sizes": [
@@ -1532,6 +1606,43 @@ export const products: Product[] = [
     "rank": 3
   },
   {
+    "id": "triton-tl",
+    "name": "テーブルライト TRITON",
+    "price": 36300,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/triton-tl/01.jpg",
+    "images": [
+      "/images/products/triton-tl/01.jpg",
+      "/images/products/triton-tl/02.jpg",
+      "/images/products/triton-tl/03.jpg",
+      "/images/products/triton-tl/04.jpg",
+      "/images/products/triton-tl/05.jpg",
+      "/images/products/triton-tl/06.jpg",
+      "/images/products/triton-tl/07.jpg",
+      "/images/products/triton-tl/08.jpg",
+      "/images/products/triton-tl/09.jpg"
+    ],
+    "description": "テーブルライト TRITON。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 3
+  },
+  {
     "id": "grt-2wolte-s",
     "name": "シングル ウォルテ ベッド 木製 寝室",
     "price": 69800,
@@ -2014,6 +2125,43 @@ export const products: Product[] = [
     "rank": 4
   },
   {
+    "id": "texas-cl",
+    "name": "天井照明 TEXAS LED CEILING LIGHT",
+    "price": 52800,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/texas-cl/01.jpg",
+    "images": [
+      "/images/products/texas-cl/01.jpg",
+      "/images/products/texas-cl/02.jpg",
+      "/images/products/texas-cl/03.jpg",
+      "/images/products/texas-cl/04.jpg",
+      "/images/products/texas-cl/05.jpg",
+      "/images/products/texas-cl/06.jpg",
+      "/images/products/texas-cl/07.jpg",
+      "/images/products/texas-cl/08.jpg",
+      "/images/products/texas-cl/09.jpg"
+    ],
+    "description": "天井照明 TEXAS LED CEILING LIGHT。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 4
+  },
+  {
     "id": "timb",
     "name": "洗えるバスケット Timb.",
     "price": 2640,
@@ -2047,6 +2195,43 @@ export const products: Product[] = [
     ],
     "reviews": [],
     "rank": 4
+  },
+  {
+    "id": "azt-120",
+    "name": "フロアライト HEMPLEN",
+    "price": 49500,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/azt-120/01.jpg",
+    "images": [
+      "/images/products/azt-120/01.jpg",
+      "/images/products/azt-120/02.jpg",
+      "/images/products/azt-120/03.jpg",
+      "/images/products/azt-120/04.jpg",
+      "/images/products/azt-120/05.jpg",
+      "/images/products/azt-120/06.jpg",
+      "/images/products/azt-120/07.jpg",
+      "/images/products/azt-120/08.jpg",
+      "/images/products/azt-120/09.jpg"
+    ],
+    "description": "フロアライト HEMPLEN。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 5
   },
   {
     "id": "grt-gm-01sdm",
@@ -2619,6 +2804,43 @@ export const products: Product[] = [
     "description": "fog linen work ブラストレー。置物・オブジェとして、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
     "material": "木製／陶器／真鍮",
     "sizeInfo": "置物・オブジェのサイズは商品画像を目安にお選びください。",
+    "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
+    "colors": [],
+    "sizes": [
+      {
+        "id": "free",
+        "label": "フリーサイズ",
+        "inStock": true
+      }
+    ],
+    "reviews": [],
+    "rank": 6
+  },
+  {
+    "id": "copying",
+    "name": "テーブルライト COPYING",
+    "price": 33000,
+    "categorySlug": "lighting",
+    "sceneSlugs": [
+      "living",
+      "bedroom",
+      "study"
+    ],
+    "image": "/images/products/copying/01.jpg",
+    "images": [
+      "/images/products/copying/01.jpg",
+      "/images/products/copying/02.jpg",
+      "/images/products/copying/03.jpg",
+      "/images/products/copying/04.jpg",
+      "/images/products/copying/05.jpg",
+      "/images/products/copying/06.jpg",
+      "/images/products/copying/07.jpg",
+      "/images/products/copying/08.jpg",
+      "/images/products/copying/09.jpg"
+    ],
+    "description": "テーブルライト COPYING。照明として、日々の暮らしになじむデザインと使い勝手を大切にした一台です。お部屋の雰囲気に合わせて取り入れやすく、長く愛用いただけます。",
+    "material": "スチール／ファブリックシェード",
+    "sizeInfo": "照明のサイズは商品画像を目安にお選びください。",
     "deliveryNote": "ご注文確定後、通常5〜10営業日以内に発送（大型家具は別途納期をご案内）",
     "colors": [],
     "sizes": [

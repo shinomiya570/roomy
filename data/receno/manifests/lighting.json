@@ -1,0 +1,198 @@
+{
+  "generatedAt": "2026-09-21T18:50:05.616815+09:00",
+  "source": {
+    "site": "receno.com",
+    "baseUrl": "https://www.receno.com",
+    "categoryUrls": [
+      "https://www.receno.com/lighting/"
+    ]
+  },
+  "products": [
+    {
+      "id": "groove",
+      "name": "天井照明 Groove-ceiling lamp",
+      "price": 21780,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/lighting2/groove.php",
+      "itemCode": "receno:groove",
+      "rank": 1,
+      "images": [
+        "/images/products/groove/01.jpg",
+        "/images/products/groove/02.jpg",
+        "/images/products/groove/03.jpg",
+        "/images/products/groove/04.jpg",
+        "/images/products/groove/05.jpg",
+        "/images/products/groove/06.jpg",
+        "/images/products/groove/07.jpg",
+        "/images/products/groove/08.jpg",
+        "/images/products/groove/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/lighting2/groove/img/main-img.jpg",
+        "https://www.receno.com/lighting2/groove/img/1-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/2-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/3-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/4-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/5-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/6-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/7-b.jpg",
+        "https://www.receno.com/lighting2/groove/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "brassr-fl",
+      "name": "フロアライト Brass＆LinenMix",
+      "price": 79800,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/floorlight2/brassr-fl.php",
+      "itemCode": "receno:brassr-fl",
+      "rank": 2,
+      "images": [
+        "/images/products/brassr-fl/01.jpg",
+        "/images/products/brassr-fl/02.jpg",
+        "/images/products/brassr-fl/03.jpg",
+        "/images/products/brassr-fl/04.jpg",
+        "/images/products/brassr-fl/05.jpg",
+        "/images/products/brassr-fl/06.jpg",
+        "/images/products/brassr-fl/07.jpg",
+        "/images/products/brassr-fl/08.jpg",
+        "/images/products/brassr-fl/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/floorlight2/brassr-fl/img/main-img.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/1-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/2-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/3-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/4-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/5-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/6-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/7-b.jpg",
+        "https://www.receno.com/floorlight2/brassr-fl/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "triton-tl",
+      "name": "テーブルライト TRITON",
+      "price": 36300,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/tablelight/triton-tl.php",
+      "itemCode": "receno:triton-tl",
+      "rank": 3,
+      "images": [
+        "/images/products/triton-tl/01.jpg",
+        "/images/products/triton-tl/02.jpg",
+        "/images/products/triton-tl/03.jpg",
+        "/images/products/triton-tl/04.jpg",
+        "/images/products/triton-tl/05.jpg",
+        "/images/products/triton-tl/06.jpg",
+        "/images/products/triton-tl/07.jpg",
+        "/images/products/triton-tl/08.jpg",
+        "/images/products/triton-tl/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/tablelight/triton-tl/img/main-img.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/1-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/2-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/3-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/4-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/5-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/6-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/7-b.jpg",
+        "https://www.receno.com/tablelight/triton-tl/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "texas-cl",
+      "name": "天井照明 TEXAS LED CEILING LIGHT",
+      "price": 52800,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/lighting/texas-cl.php",
+      "itemCode": "receno:texas-cl",
+      "rank": 4,
+      "images": [
+        "/images/products/texas-cl/01.jpg",
+        "/images/products/texas-cl/02.jpg",
+        "/images/products/texas-cl/03.jpg",
+        "/images/products/texas-cl/04.jpg",
+        "/images/products/texas-cl/05.jpg",
+        "/images/products/texas-cl/06.jpg",
+        "/images/products/texas-cl/07.jpg",
+        "/images/products/texas-cl/08.jpg",
+        "/images/products/texas-cl/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/lighting/texas-cl/img/main-img.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/1-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/2-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/3-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/4-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/5-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/6-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/7-b.jpg",
+        "https://www.receno.com/lighting/texas-cl/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "azt-120",
+      "name": "フロアライト HEMPLEN",
+      "price": 49500,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/floorlight/azt-120.php",
+      "itemCode": "receno:azt-120",
+      "rank": 5,
+      "images": [
+        "/images/products/azt-120/01.jpg",
+        "/images/products/azt-120/02.jpg",
+        "/images/products/azt-120/03.jpg",
+        "/images/products/azt-120/04.jpg",
+        "/images/products/azt-120/05.jpg",
+        "/images/products/azt-120/06.jpg",
+        "/images/products/azt-120/07.jpg",
+        "/images/products/azt-120/08.jpg",
+        "/images/products/azt-120/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/floorlight/azt-120/img/main-img.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/1-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/2-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/3-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/4-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/5-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/6-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/7-b.jpg",
+        "https://www.receno.com/floorlight/azt-120/img/8-b.jpg"
+      ]
+    },
+    {
+      "id": "copying",
+      "name": "テーブルライト COPYING",
+      "price": 33000,
+      "categorySlug": "lighting",
+      "itemUrl": "https://www.receno.com/tablelight/copying.php",
+      "itemCode": "receno:copying",
+      "rank": 6,
+      "images": [
+        "/images/products/copying/01.jpg",
+        "/images/products/copying/02.jpg",
+        "/images/products/copying/03.jpg",
+        "/images/products/copying/04.jpg",
+        "/images/products/copying/05.jpg",
+        "/images/products/copying/06.jpg",
+        "/images/products/copying/07.jpg",
+        "/images/products/copying/08.jpg",
+        "/images/products/copying/09.jpg"
+      ],
+      "sourceUrls": [
+        "https://www.receno.com/tablelight/copying/img/main-img.jpg",
+        "https://www.receno.com/tablelight/copying/img/1-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/2-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/3-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/4-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/5-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/6-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/7-b.jpg",
+        "https://www.receno.com/tablelight/copying/img/8-b.jpg"
+      ]
+    }
+  ]
+}

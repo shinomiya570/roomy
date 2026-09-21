@@ -1,0 +1,21 @@
+{
+  "baseUrl": "https://www.receno.com",
+  "categoryUrls": ["https://www.receno.com/lighting/"],
+  "maxProducts": 6,
+  "maxImagesPerProduct": 9,
+  "prependMainImage": true,
+  "requestIntervalSec": 1.0,
+  "concurrency": 2,
+  "defaultCategorySlug": "lighting",
+  "manifestPath": "data/receno/manifests/lighting.json",
+  "imagesDir": "public/images/products",
+  "imagesWebPath": "/images/products",
+  "productUrls": [
+    "https://www.receno.com/lighting2/groove.php",
+    "https://www.receno.com/floorlight2/brassr-fl.php",
+    "https://www.receno.com/tablelight/triton-tl.php",
+    "https://www.receno.com/lighting/texas-cl.php",
+    "https://www.receno.com/floorlight/azt-120.php",
+    "https://www.receno.com/tablelight/copying.php"
+  ]
+}

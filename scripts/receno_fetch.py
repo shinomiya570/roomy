@@ -62,6 +62,7 @@ class Config:
     request_interval_sec: float = 1.0
     concurrency: int = 2
     default_category_slug: str = "mirror"
+    prepend_main_image: bool = False
     product_urls: list[str] = field(default_factory=list)
     manifest_path: Path = field(
         default_factory=lambda: PROJECT_ROOT / "data" / "receno" / "manifests" / "mirror.json"
@@ -105,6 +106,7 @@ def load_config(path: Path) -> Config:
         request_interval_sec=float(raw.get("requestIntervalSec", 1.0)),
         concurrency=max(1, int(raw.get("concurrency", 2))),
         default_category_slug=raw.get("defaultCategorySlug", "mirror"),
+        prepend_main_image=bool(raw.get("prependMainImage", False)),
         product_urls=list(raw.get("productUrls") or []),
         manifest_path=manifest_path,
         images_dir=resolve_project_path(raw.get("imagesDir", "public/images/products")),
@@ -212,7 +214,12 @@ def parse_price(html: str) -> int:
     return 0
 
 
-def extract_ordered_image_urls(html: str, item_url: str, max_images: int) -> list[str]:
+def extract_ordered_image_urls(
+    html: str,
+    item_url: str,
+    max_images: int,
+    prepend_main: bool = False,
+) -> list[str]:
     slug = slug_from_url(item_url)
     found = DETAIL_IMAGE_RE.findall(html)
     numbered: list[tuple[int, str]] = []
@@ -229,11 +236,12 @@ def extract_ordered_image_urls(html: str, item_url: str, max_images: int) -> lis
         seen.add(abs_url)
         numbered.append((int(num_match.group(1)), abs_url))
     numbered.sort(key=lambda item: item[0])
-    urls = [url for _, url in numbered[:max_images]]
-    if len(urls) < max_images:
-        main_url = urljoin(item_url.replace(".php", "/"), "img/main-img.jpg")
-        if main_url not in seen:
-            urls.append(main_url)
+    urls = [url for _, url in numbered]
+    main_url = urljoin(item_url.replace(".php", "/"), "img/main-img.jpg")
+    if prepend_main:
+        urls = [main_url] + [url for url in urls if url != main_url]
+    elif len(urls) < max_images and main_url not in seen:
+        urls.append(main_url)
     return urls[:max_images]
 
 
@@ -257,7 +265,10 @@ def enrich_product(cfg: Config, product: dict) -> dict:
     product["name"] = parse_title(html)
     product["price"] = parse_price(html)
     product["imageUrls"] = extract_ordered_image_urls(
-        html, product["itemUrl"], cfg.max_images_per_product
+        html,
+        product["itemUrl"],
+        cfg.max_images_per_product,
+        prepend_main=cfg.prepend_main_image,
     )
     product["itemCode"] = f"receno:{product['id']}"
     return product

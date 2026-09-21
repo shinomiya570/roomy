@@ -296,7 +296,7 @@ function toProduct(item, warnings, index) {
     categorySlug,
     sceneSlugs: SCENE_BY_CATEGORY[categorySlug] ?? [],
     image: existingImages[0],
-    images: existingImages.slice(0, 8),
+    images: existingImages.slice(0, 9),
     description: buildDescription(name, categorySlug),
     material: extractMaterial(name, categorySlug),
     sizeInfo: extractSizeInfo(name, categorySlug),
