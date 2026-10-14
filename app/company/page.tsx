@@ -42,7 +42,7 @@ export default function CompanyPage() {
             ["会社名", companyInfo.name],
             ["代表者", companyInfo.representative],
             ["所在地", companyInfo.address],
-            ["電話", companyInfo.phone],
+            ["電話番号", companyInfo.phone],
             ["資本金", companyInfo.capital],
             ["事業内容", companyInfo.business],
             ["メール", companyInfo.email],

@@ -27,7 +27,7 @@ export default function ContactPage() {
           <dd className="mt-1 text-text">{companyInfo.email}</dd>
         </div>
         <div>
-          <dt className="text-[#6b6b6b]">電話</dt>
+          <dt className="text-[#6b6b6b]">電話番号</dt>
           <dd className="mt-1 text-text">{companyInfo.phone}</dd>
         </div>
         <div className="sm:col-span-2">

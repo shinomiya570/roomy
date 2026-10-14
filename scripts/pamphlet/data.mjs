@@ -68,7 +68,7 @@ export const SCENES = [
 export const COMPANY = {
   name: "フォースペース合同会社",
   email: "shinomiya@roomy-right.com",
-  phone: "080-6045-5714",
+  phone: "050-1784-9859",
   hours: "平日 10:00〜17:00（土日祝休）",
   shipping: "22,000円（税込）以上で送料無料",
 };
